@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444157631331",
+    "firebase_url": "https://datingscamdetector.firebaseio.com",
+    "project_id": "datingscamdetector",
+    "storage_bucket": "datingscamdetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444157631331:android:75cbefa1606ff9483e5156",
+        "android_client_info": {
+          "package_name": "com.example.onlinedatingscamdatafeeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444157631331-gfeajblnep7q9a23qumovtk0akgj6aeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinedatingscamdatafeeder",
+            "certificate_hash": "527e5573d8a8fe0d7ae1c1a0ad092236c3cce75d"
+          }
+        },
+        {
+          "client_id": "444157631331-421vuo21is7rcgt7700fcde20fd741q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQjgXmWOlvFsGb9fjVF3kdfu_B9oaojw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444157631331-421vuo21is7rcgt7700fcde20fd741q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
