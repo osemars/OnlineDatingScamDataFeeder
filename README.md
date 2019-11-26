@@ -1,5 +1,5 @@
 # OnlineDatingScamDataFeeder
-Incase you're wondering or disturbed about a trend...This app uses a TensorFlow Lite model to predicts if you are currently 
+Incase you're wondering or disturbed about a trend in your relationship...This app uses a TensorFlow Lite model to predicts if you are currently 
 in a relationship with a scammer or not...
 
 It asks a couple of questions and uses that as the input and outputs a probability that it is a scam.
